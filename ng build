@@ -1,0 +1,1 @@
+ng build --output-path=/Users/baohai.xu/Sites/muster/public/views --deployUrl=./views/
